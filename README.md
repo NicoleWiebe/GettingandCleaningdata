@@ -1,6 +1,6 @@
 
-#Title: "Course Project for Getting and Cleaning Data"
-#author: "Nicole Wiebe"
+#Title: Course Project for Getting and Cleaning Data
+#author: Nicole Wiebe
 
 
 ##This document serves to describe each of the pieces of the project submission and how to use them.
@@ -11,7 +11,7 @@
 * run_analysis.r - this is the actual script for running the analysis
 * Final_Analysis.txt - tidy data set generated from the R script
 
-### Instructions
+### Instructions:
 
 1. Download the dataset which can be found here:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
